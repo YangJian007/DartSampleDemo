@@ -1,0 +1,10 @@
+	
+$ git add .
+
+$ git commit -m  "备注"
+
+$ git push -u origin main
+
+$ git status
+
+
